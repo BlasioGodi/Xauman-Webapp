@@ -45,17 +45,13 @@
     <link rel="apple-touch-icon" sizes="32x32" width="32px" height="32px" href="~/src/logos/XAU-32x32.webp" />
     <link rel="apple-touch-icon" sizes="72x72" width="72px" height="72px" href="~/src/logos/XAU-72x72.webp" />
     <link rel="apple-touch-icon" sizes="114x114" width="114px" height="114px" href="~/src/logos/XAU-114x114.webp" />
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Playfair+Display:ital@0;1&display=swap"
           rel="stylesheet" />
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/node_modules/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 <body>
@@ -113,12 +109,12 @@
             <div class="row align-items-center">
                 <div class="border-bottom border-danger">
                 </div>
-                <div id="Follow" class="col-md-6 col-lg-6 col-sm-12 text-center">
+                <div id="Follow" class="col-md-6 col-lg-6 col-sm-12 text-lg-start text-sm-center">
                     <p class="mb-0 social-title">
                         Follow us on social media:
                     </p>
                 </div>
-                <div class="col-md-6 col-lg-6 col-sm-12 text-center">
+                <div class="col-md-6 col-lg-6 col-sm-12 text-lg-end text-sm-center">
                     <ul class="social-list">
                         <li>
                             <a target="_blank" rel="noopener noreferrer" class="social-list-facebook"
@@ -165,8 +161,10 @@
                     </p>
                 </div><!-- footer menu one start -->
                 <div class="col-md-2 col-md-offset-1 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title">Menu</div>
-                    <ul class="no-icon-list">
+                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Menu
+                        <button type="button" id="footer-close" class="btn-close" aria-label="Close"></button>
+                    </div>
+                    <ul class="no-icon-list d-md-block d-none color-black">
                         <li><a asp-area="" asp-page="/Home">Home</a></li>
                         <li><a asp-area="" asp-page="/About">About</a></li>
                         <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
@@ -175,22 +173,22 @@
                     </ul>
                 </div><!-- footer menu two start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title">Learn more</div>
-                    <ul class="no-icon-list">
+                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Learn more</div>
+                    <ul class="no-icon-list d-md-block d-none">
                         <li><a asp-area="" asp-page="/Forex">Forex Market</a></li>
                         <li><a asp-area="" asp-page="/Gold">Gold Market</a></li>
                         <li><a asp-area="" asp-page="/FAQ">FAQ</a></li>
                     </ul>
                 </div><!-- footer menu three start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title">Support</div>
-                    <ul class="no-icon-list">
+                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Support</div>
+                    <ul class="no-icon-list d-md-block d-none">
                         <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
                     </ul>
                 </div><!-- footer social icons start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title">Legal</div>
-                    <ul class="no-icon-list">
+                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Legal</div>
+                    <ul class="no-icon-list d-md-block d-none">
                         <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
                         <li><a asp-area="" asp-page="/TermsofUse">Terms of Use</a></li>
                         <li><a asp-area="" asp-page="/RiskDisclosure">Risk Disclosure</a></li>
@@ -224,7 +222,7 @@
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)

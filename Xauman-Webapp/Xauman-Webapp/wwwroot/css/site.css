@@ -608,4 +608,7 @@ footer .col-footer .title i {
   footer .col-footer {
     border: none;
   }
+  #footer-close {
+    display: none;
+  }
 }
