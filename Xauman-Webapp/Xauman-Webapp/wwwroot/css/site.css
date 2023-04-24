@@ -66,9 +66,8 @@
 
 /* 1.1 General */
 
-@import url("/node_modules/font-awesome/css/font-awesome.css");
+@import url("../lib/node_modules/font-awesome/css/font-awesome.css");
 @import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Playfair+Display:ital@0;1&display=swap");
-@import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
 
 ::-webkit-scrollbar {
   width: 8px;
@@ -573,4 +572,40 @@ textarea.form-control {
 
 .gutter {
   min-height: 20px;
+}
+
+.list-title {
+  color: #dadada;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer .col-footer {
+  line-height: 1.25rem;
+  border-bottom: 1px solid rgba(146, 157, 170, 0.22);
+}
+
+footer .col-footer .title i {
+  transition: transform 0.4s;
+  font-size: 8px;
+}
+
+[class^="fx-symbol-"],
+[class*=" fx-symbol-"] {
+  font-family: "fx-symbols-web-2-0" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 575px) {
+  footer .col-footer {
+    border: none;
+  }
 }

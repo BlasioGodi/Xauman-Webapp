@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package.json",
+      "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Chart-01.png",
       "PackagePath": "staticwebassets\\src\\img\\Chart-01.png"
     },

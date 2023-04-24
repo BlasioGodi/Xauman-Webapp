@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@{string tiktokUsername = "@xaumanforex_xmf";}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
@@ -96,6 +98,9 @@
         </nav>
     </header>
     <div class="container">
+        <div class="loader navbar-brand">
+      <img src="src/logos/XAU-114x114.webp" alt="" />
+    </div>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -104,9 +109,50 @@
     <footer class="border-top footer text-muted bg-dark" id="footer">
         <div class="gutter"></div>
         <div class="container overflow-hidden">
-            <div class="row">
-                
-
+            <div class="row align-items-center">
+                <div class="border-bottom border-danger">
+                </div>
+                <div id="Follow" class="col-md-6 col-lg-6 col-sm-12 text-center">
+                    <p class="mb-0 social-title">
+                        Follow us on social media:
+                    </p>
+                </div>
+                <div class="col-md-6 col-lg-6 col-sm-12 text-center">
+                    <ul class="social-list">
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" class="social-list-facebook"
+                               href="https://www.facebook.com/profile.php?id=100089398025541" aria-label="facebook follow button">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" class="social-list-twitter"
+                               href="https://twitter.com/XaumanForex" aria-label="twitter follow button">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" class="social-list-instagram"
+                               href="https://www.instagram.com/xaumanforex/" aria-label="instagram follow button">
+                                <i class="fa fa-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/@tiktokUsername"
+                               aria-label="tiktok follow button">
+                                <i class="bi bi-tiktok"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" class="social-list-telegram"
+                               href="https://t.me/+6juAbHJs9wI4ZmI0" aria-label="telegram follow button">
+                                <i class="fa fa-telegram"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="mb-4 border-bottom border-danger">
+                </div>
             </div>
             <div class="row gy-3 text-center ">
                 <!-- footer about start -->
@@ -141,7 +187,7 @@
                         <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
                     </ul>
                 </div><!-- footer social icons start -->
-                <div class="col-md-2 col-sm-3 col-xs-12">
+                <div class="col-md-2 col-sm-3 col-xs-4">
                     <h6 class="font-montserrat text-uppercase color-black">Legal</h6>
                     <ul class="no-icon-list">
                         <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
@@ -150,11 +196,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="gutter">
+            <div class="gutter">    
+            </div>  
+            <div class="row">
                 <div class="my-2 border-bottom border-danger">
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-md-12">
                     <p>Legal: This website is operated by XM Global Limited with registered address at Suite 404, The Matalon, Coney Drive, Belize City, Belize.</p>
                     <p>XM Global Limited, authorised and regulated by the Financial Services Commission (FSC) (license number 000261/397) and Trading Point of Financial Instruments Limited, authorised and regulated by Cyprus Securities and Exchange Commission (CySEC) (licence number 120/10), are members of Trading Point Group.</p>

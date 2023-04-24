@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8saOG16N5nF/R2dqGbw43FZShr4Q7wIEopMOPMSGaHY=",
+  "Hash": "Ccl2f9fUD0P2iBM8OWbbTJAfheXneFtLFOe7FyFtyt0=",
   "Source": "Xauman-Webapp",
   "BasePath": "_content/Xauman-Webapp",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package-lock.json",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "lib/package-lock.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\package-lock.json"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package.json",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "lib/package.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\package.json"
     },
     {
       "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Chart-01.png",
