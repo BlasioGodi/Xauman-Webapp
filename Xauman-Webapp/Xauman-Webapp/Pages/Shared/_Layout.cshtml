@@ -17,6 +17,7 @@
 
     <!-- Title -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="<directive><value>;<directive><value>"/>
     <meta http-equiv="cache-control" content="max-age=31536000, public" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>XAUman | @ViewData["Title"] </title>
@@ -154,17 +155,17 @@
                 <div class="mb-4 border-bottom border-danger">
                 </div>
             </div>
-            <div class="row gy-3 text-center ">
+            <div class="row gy-3">
                 <!-- footer about start -->
-                <div class="col-md-3 col-sm-12 col-xs-12">
-                    <h6 class="font-montserrat text-uppercase color-black">About Us</h6>
+                <div class="col-md-3 col-sm-12 col-xs-12"> 
+                    <div class="font-montserrat text-uppercase color-black list-title">About Us</div>
                     <p>
                         We are seasoned Traders in the financial markets, specializing in Gold Trading. We help individuals and organizations achieve
                         their financial goals through trading the markets.
                     </p>
                 </div><!-- footer menu one start -->
                 <div class="col-md-2 col-md-offset-1 col-sm-3 col-xs-4">
-                    <h6 class="font-montserrat text-uppercase color-black">Menu</h6>
+                    <div class="font-montserrat text-uppercase color-black list-title">Menu</div>
                     <ul class="no-icon-list">
                         <li><a asp-area="" asp-page="/Home">Home</a></li>
                         <li><a asp-area="" asp-page="/About">About</a></li>
@@ -174,7 +175,7 @@
                     </ul>
                 </div><!-- footer menu two start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <h6 class="font-montserrat text-uppercase color-black">Learn more</h6>
+                    <div class="font-montserrat text-uppercase color-black list-title">Learn more</div>
                     <ul class="no-icon-list">
                         <li><a asp-area="" asp-page="/Forex">Forex Market</a></li>
                         <li><a asp-area="" asp-page="/Gold">Gold Market</a></li>
@@ -182,13 +183,13 @@
                     </ul>
                 </div><!-- footer menu three start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <h6 class="font-montserrat text-uppercase color-black">Support</h6>
+                    <div class="font-montserrat text-uppercase color-black list-title">Support</div>
                     <ul class="no-icon-list">
                         <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
                     </ul>
                 </div><!-- footer social icons start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <h6 class="font-montserrat text-uppercase color-black">Legal</h6>
+                    <div class="font-montserrat text-uppercase color-black list-title">Legal</div>
                     <ul class="no-icon-list">
                         <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
                         <li><a asp-area="" asp-page="/TermsofUse">Terms of Use</a></li>
