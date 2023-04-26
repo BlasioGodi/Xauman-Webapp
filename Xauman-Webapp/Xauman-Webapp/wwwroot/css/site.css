@@ -352,7 +352,7 @@ textarea.form-control {
 
 .social-title {
   font-family: var(--bs-title-font-family);
-  font-size: 1.7em;
+  font-size: 1.2em;
 }
 
 .social-list {
@@ -371,7 +371,7 @@ textarea.form-control {
 .social-list .bi,
 .social-list .fa {
   color: #606060;
-  font-size: 2em;
+  font-size: 1.5em;
   width: 1.5em;
   height: 1.2em;
   line-height: 1.2em;
