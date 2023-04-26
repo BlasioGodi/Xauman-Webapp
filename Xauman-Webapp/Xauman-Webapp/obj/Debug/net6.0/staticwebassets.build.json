@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ggfBC3obn5+brQBT5j/qZSU/MEuDWNsaXjpnhfaHz1o=",
+  "Hash": "2n+/DECsSoDxsx4Vm4uD4E+k7zwbMMgdfrLap4HyAek=",
   "Source": "Xauman-Webapp",
   "BasePath": "_content/Xauman-Webapp",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xauman-Webapp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "css/bootstrap_custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap_custom.css"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css.map",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "css/bootstrap_custom.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap_custom.css.map"
     },
     {
       "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\site.css",
@@ -338,6 +372,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\package.json"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\scss\\custom.scss",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "lib/scss/custom.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\scss\\custom.scss"
     },
     {
       "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Chart-01.png",

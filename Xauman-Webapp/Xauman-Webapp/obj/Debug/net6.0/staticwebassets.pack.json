@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Xauman-Webapp.bundle.scp.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -71,6 +79,10 @@
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package.json",
       "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\custom.scss"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Chart-01.png",
