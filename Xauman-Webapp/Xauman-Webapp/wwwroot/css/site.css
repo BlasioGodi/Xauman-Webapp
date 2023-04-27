@@ -616,6 +616,10 @@ footer .col-footer .title i {
   color: rgb(194, 193, 193);
 }
 
+.text-darken:last-of-type a:hover {
+  color: var(--text-color-blue);
+}
+
 @media (min-width: 575px) {
   footer .col-footer {
     border: none;
