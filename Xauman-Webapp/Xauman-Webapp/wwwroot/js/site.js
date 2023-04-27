@@ -44,27 +44,30 @@ function xau_set_event_listeners() {
     XAU_EL.email.addEventListener("keyup", xau_can_submit);
 }
 
-const button = {
+//Footer Toggle menu button
+const buttons = {
     button1: document.getElementById("btn-close-1"),
     button2: document.getElementById("btn-close-2"),
     button3: document.getElementById("btn-close-3"),
     button4: document.getElementById("btn-close-4")
 };
 
-button.setAttribute('data-click-count', 0);
+for (const key in buttons) {
+    if (buttons.hasOwnProperty(key)) {
+        buttons[key].setAttribute('data-click-count', 0);
 
-button.addEventListener('click', () => {
-    button.classList.add("btn-click");
-    const clickCount = parseInt(button.getAttribute('data-click-count'));
-    button.setAttribute('data-click-count', clickCount + 1); // increment click count by 1 for each button
+        buttons[key].addEventListener('click', () => {
+            buttons[key].classList.add("btn-click");
+            const clickCount = parseInt(buttons[key].getAttribute('data-click-count'));
+            buttons[key].setAttribute('data-click-count', clickCount + 1); // increment click count by 1 for each button
 
-    if (clickCount === 1) {
-        button.classList.remove("btn-click");
-        button.setAttribute('data-click-count', 0); // reset click count to 0 for each button
+            if (clickCount === 1) {
+                buttons[key].classList.remove("btn-click");
+                buttons[key].setAttribute('data-click-count', 0); // reset click count to 0 for each button
+            }
+        });
     }
-});
-
-
+}
 //Add event listeners
 xau_set_event_listeners();
 

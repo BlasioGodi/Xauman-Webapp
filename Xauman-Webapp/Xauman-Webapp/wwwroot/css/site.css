@@ -611,7 +611,8 @@ footer .col-footer .title i {
   color: var(--text-color-blue);
 }
 
-.text-darken {
+.text-darken,
+.text-darken:last-of-type a {
   color: rgb(194, 193, 193);
 }
 
