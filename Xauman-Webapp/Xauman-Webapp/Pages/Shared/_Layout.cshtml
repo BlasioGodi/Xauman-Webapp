@@ -17,7 +17,7 @@
 
     <!-- Title -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="Content-Security-Policy" content="<directive><value>;<directive><value>"/>
+    <meta http-equiv="Content-Security-Policy" content="<directive><value>;<directive><value>" />
     <meta http-equiv="cache-control" content="max-age=31536000, public" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>XAUman | @ViewData["Title"] </title>
@@ -96,8 +96,8 @@
     </header>
     <div class="container">
         <div class="loader navbar-brand">
-      <img src="src/logos/XAU-114x114.webp" alt="" />
-    </div>
+            <img src="src/logos/XAU-114x114.webp" alt="" />
+        </div>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -109,7 +109,7 @@
             <div class="row align-items-center">
                 <div class="border-bottom border-danger">
                 </div>
-                <div id="Follow" class="col-md-6 col-lg-6 col-sm-6 col-xs-12 text-lg-start text-s-center">
+                <div id="Follow" class="col-md-6 col-lg-6 col-sm-6 col-xs-12 text-lg-start text-sm-start text-s-center">
                     <p class="mb-0 social-title">
                         Follow us on social media:
                     </p>
@@ -153,7 +153,7 @@
             </div>
             <div class="row gy-3">
                 <!-- footer about start -->
-                <div class="col-md-3 col-sm-12 col-xs-12"> 
+                <div class="col-md-3 col-sm-12 col-xs-12">
                     <div class="font-montserrat text-uppercase color-black list-title">About Us</div>
                     <p>
                         We are seasoned Traders in the financial markets, specializing in Gold Trading. We help individuals and organizations achieve
@@ -161,16 +161,21 @@
                     </p>
                 </div><!-- footer menu one start -->
                 <div class="col-md-2 col-md-offset-1 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Menu
-                        <button type="button" id="footer-close" class="btn-close" aria-label="Close"></button>
+                    <div class="font-montserrat text-uppercase color-black list-title col-footer">
+                        Menu
+                    <button type="button" id="footer-close" class="btn-close btn-close-white" aria-label="Collapse" data-bs-dismiss="modal"
+                                data-bs-toggle="collapse" data-bs-target="#footer-menu" aria-expanded="false" aria-controls="collapseExample"></button>
+
                     </div>
-                    <ul class="no-icon-list d-md-block d-none color-black">
-                        <li><a asp-area="" asp-page="/Home">Home</a></li>
-                        <li><a asp-area="" asp-page="/About">About</a></li>
-                        <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
-                        <li><a asp-area="" asp-page="/Analysis">Analysis</a></li>
-                        <li><a asp-area="" asp-page="/TradingBots">Trading Bots</a></li>
-                    </ul>
+                    <div class=" collapse d-md-block" id="footer-menu">
+                        <ul class="no-icon-list color-black">
+                            <li><a asp-area="" asp-page="/Home">Home</a></li>
+                            <li><a asp-area="" asp-page="/About">About</a></li>
+                            <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
+                            <li><a asp-area="" asp-page="/Analysis">Analysis</a></li>
+                            <li><a asp-area="" asp-page="/TradingBots">Trading Bots</a></li>
+                        </ul>
+                    </div>
                 </div><!-- footer menu two start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
                     <div class="font-montserrat text-uppercase color-black list-title col-footer">Learn more</div>
@@ -195,17 +200,24 @@
                     </ul>
                 </div>
             </div>
-            <div class="gutter">    
-            </div>  
+            <div class="gutter">
+            </div>
             <div class="row">
                 <div class="my-2 border-bottom border-danger">
                 </div>
-                <div class="col-md-12">
-                    <p>Legal: This website is operated by XM Global Limited with registered address at Suite 404, The Matalon, Coney Drive, Belize City, Belize.</p>
-                    <p>XM Global Limited, authorised and regulated by the Financial Services Commission (FSC) (license number 000261/397) and Trading Point of Financial Instruments Limited, authorised and regulated by Cyprus Securities and Exchange Commission (CySEC) (licence number 120/10), are members of Trading Point Group.</p>
-                    <p>Risk warning: Our services involve a significant risk and can result in the loss of your invested capital. Please read and ensure you fully understand our Risk Disclosure.</p>
-                    <p>Restricted Regions: XM Global Limited does not provide services for the residents of certain countries, such as the United States of America, Canada, Israel and the Islamic Republic of Iran.</p>
-                    <p>XM does not direct its website and services to any individual in any country in which the use of its website and services are prohibited by local laws or regulations. When accessing this website from a country in which its use may or may not be prohibited, it is the user's responsibility to ensure that any use of the website or services adhere to local laws or regulations. XM does not affirm that the information on its website is suitable to all jurisdictions.</p>
+                <div class="col-md-6">
+                     <p>Risk Disclosure: Trading in financial markets involves significant risk and can result in financial loss. Our educational resources are
+                         designed to help you understand the basics of trading and develop your skills, but they do not guarantee profitable trading or protect 
+                         against losses. You should carefully consider your financial situation and investment objectives before engaging in trading, seek professional 
+                         financial advice, and only invest money that you can afford to lose. Remember that the markets can be volatile and unpredictable, and 
+                         leverage and margin trading can increase the risks associated with trading. By using our educational resources, you acknowledge that you 
+                         are responsible for your own trading decisions and the associated risks.</p>
+                </div>
+
+                <div class="col-md">
+                    <p>CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 84.60% of retail investor accounts lose money when 
+                            trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford 
+                            to take the high risk of losing your money.</p>
                 </div>
             </div>
         </div>

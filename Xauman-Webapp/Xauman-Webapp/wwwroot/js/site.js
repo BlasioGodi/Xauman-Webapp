@@ -44,6 +44,20 @@ function xau_set_event_listeners() {
     XAU_EL.email.addEventListener("keyup", xau_can_submit);
 }
 
+// Footer Collapse Button
+const closeBtn = document.querySelector('.btn-close');
+let clickCount = 0;
+
+closeBtn.addEventListener('click', () => {
+    clickCount++;
+
+    if (clickCount === 2) {
+        closeBtn.blur();
+        clickCount = 0;
+    }
+});
+
+//Add event listeners
 xau_set_event_listeners();
 
 var Xauman = {

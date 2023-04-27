@@ -51,6 +51,9 @@
 
   9.  Contacts  
   10. Footer
+      10.1 Styling
+      10.2 Drop-down Settings
+      
   11. Responsive styles
 
       11.1 Min width: 768px
@@ -560,6 +563,8 @@ textarea.form-control {
   10. Footer
 -------------------------------------------------------------------------------*/
 
+/* 10.1 Styling */
+
 .footer {
   font-family: var(--font-family);
   font-size: 0.8rem;
@@ -611,4 +616,32 @@ footer .col-footer .title i {
   #footer-close {
     display: none;
   }
+}
+
+@media (max-width: 768px) {
+  #footer-close {
+    display: block;
+  }
+}
+
+/* 10.2 Drop-down Settings */
+.btn-close {
+  transform: rotate(45deg) scale(0.75);
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.btn-close:focus,
+.btn-close-white:focus {
+  outline: none;
+  box-shadow: none;
+  transform: rotate(90deg) scale(0.75);
+}
+
+.btn-close:hover,
+.btn-close-white:hover {
+  color: #dbd7e0;
+  transform: rotate(90deg) scale(0.75);
 }
