@@ -642,7 +642,7 @@ footer .col-footer .title i {
 }
 
 /* 10.2 Drop-down Settings */
-.btn-close {
+footer .btn-close {
   transform: rotate(45deg) scale(0.75);
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
@@ -650,22 +650,150 @@ footer .col-footer .title i {
   -o-transition: all 0.5s ease-in-out;
 }
 
-.btn-close:focus,
-.btn-close-white:focus {
+footer .btn-close:focus,
+footer .btn-close-white:focus {
   outline: none;
   box-shadow: none;
 }
 
-.btn-click {
+footer .btn-click {
   transform: rotate(90deg) scale(0.75);
 }
 
-.d-md-block.collapse.show:focus {
+footer .d-md-block.collapse.show:focus {
   transform: rotate(90deg) scale(0.75);
 }
 
-.btn-close:hover,
-.btn-close-white:hover {
+footer .btn-close:hover,
+footer .btn-close-white:hover {
   color: #dbd7e0;
   transform: rotate(90deg) scale(0.75);
 }
+
+
+
+
+#home-section {
+    position: relative;
+    overflow: hidden !important;
+    width: 100%;
+}
+
+#back-home {
+    position:relative;
+    width: 100%;
+    height: 100%;
+    min-width: 1920px;
+    top: 0;
+    left: 50%;
+    margin-left: -960px;
+    overflow: hidden;
+}
+
+    #back-home img {
+        width: 100%;
+        background:no-repeat center center fixed;
+        background-size: cover;
+    }
+
+.flexslider {
+    top: 50%;
+    margin-top: -100px;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+.flexcaption {
+    max-width: 1170px;
+    padding: 0 90px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .flexcaption h1 {
+        color: #ffffff;
+        font-size: 78px;
+        font-family: Anton;
+        margin: 30px 15px 4px 15px;
+    }
+
+        .flexcaption h1 span {
+            display: inline-block;
+        }
+
+            .flexcaption h1 span.diff-color {
+                color: #358eef;
+                font-weight: bold;
+            }
+
+    .flexcaption > p {
+        color: #ffffff;
+        font-size: 26px;
+        font-family: Raleway;
+        font-weight: 300;
+        line-height: 27px;
+        max-width: 640px;
+        margin: 0 auto 25px;
+        text-transform: uppercase;
+    }
+
+    .flexcaption > a {
+        display: inline-block;
+        color: #ffffff;
+        font-size: 17px;
+        font-family: Raleway;
+        font-weight: 300;
+        text-transform: uppercase;
+        text-decoration: none;
+        position: relative;
+        padding: 14px 30px;
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+    }
+
+        .flexcaption > a:after {
+            position: absolute;
+            content: '';
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            transition: all 0.17s ease-in-out;
+            -moz-transition: all 0.17s ease-in-out;
+            -webkit-transition: all 0.17s ease-in-out;
+            -o-transition: all 0.17s ease-in-out;
+            -webkit-backface-visibility: hidden;
+            -webkit-border-radius: 15px;
+            -moz-border-radius: 15px;
+            border-radius: 15px;
+        }
+
+        .flexcaption > a:hover:after {
+            transform: skewX(0deg);
+            -webkit-transform: skewX(0deg);
+            -moz-transform: skewX(0deg);
+            -o-transform: skewX(0deg);
+        }
+
+        .flexcaption > a span {
+            position: relative;
+            z-index: 2;
+        }
+
+    .flexcaption i {
+        font-size: 60px;
+        background: #358eef;
+        width: 70px;
+        height: 70px;
+        border-radius: 200px;
+        padding: 6px;
+        padding-top: 8px;
+    }
+
+    .flexcaption > a:hover {
+        color: #fff;
+        opacity: 1;
+    }

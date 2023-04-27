@@ -1,10 +1,14 @@
-﻿@{string tiktokUsername = "@xaumanforex_xmf";}
+﻿@{
+    string tiktokUsername = "@xaumanforex_xmf";
+    List<string> pageContent = new List<string>();
+    pageContent.AddRange(new string[] { "Financial Markets", "Forex", "Foreign Exchange Market", "Gold Market", "Commodities", "Derivatives", "Forex Trading", "Contract For Difference", "Gold Trading", "Gold Traders" });
+}
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-1L41JYFVYB" defer></script>
+    <script src="https://www.googletagmanager.com/gtag/js?tid=G-1L41JYFVYB" defer></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() {
@@ -37,7 +41,7 @@
     <meta property="og:image:width" content="1280" />
     <meta property="og:image:height" content="720" />
     <meta name="keywords"
-          content="Financial Markets, Forex, Foreign Exchange Market, Gold Market, Commodities, Derivatives, Forex Trading, Contract For Difference, Gold Trading, Gold Traders " />
+          content="@pageContent" />
     <meta name="author" content="XAUman Forex" />
 
     <!-- Favicons -->
@@ -55,8 +59,21 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-black background-bg shadow h-100" id="nav-bg">
+    <div class="container-fluid">
+        <div class="row" style="min-height:100vh;">
+            <div class="col">
+                <div id="home-section">
+                    <div id="back-home">
+                        <img src="~/src/img/slide.jpg" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+
+    <header class="clearfix">
+        <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-black background-bg shadow h-100" id="nav-bg">
             <div class="position-absolute top-0 start-0 w-100 h-100 bg-black opacity-50" style="pointer-events: none"></div>
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">
@@ -93,17 +110,67 @@
                 <!--Desktop Navigation End-->
             </div>
         </nav>
+        <div class="offcanvas offcanvas-start text-bg-dark" tabindex="-1" id="offcanvasXauman"
+             aria-labelledby="offcanvasXaumanLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasXaumanLabel">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="src/logos/XAU-32x32.webp" alt="Xauman Logo"
+                             class="d-inline-block align-text-center mx-2" /><strong class="text-color-red">XAU</strong><strong class="text-color-blue">man</strong>
+                    </a>
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-center me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <button class="btn btn-secondary bg-dark" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseXauman" aria-expanded="false" aria-controls="collapseXauman">
+                            Share on Social Media
+                        </button>
+                        <div class="collapse bg-black" id="collapseXauman">
+                            <ul class="social-list vertical">
+                                <li class="border-bottom border-secondary mx-3 my-2">
+                                    <a target="_blank" rel="noopener noreferrer" class="social-list-facebook"
+                                       href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxauman.com"
+                                       aria-label="facebook follow button"><i class="fa fa-facebook align-middle"></i>Facebook</a>
+                                </li>
+                                <li class="border-bottom border-secondary mx-3 my-2">
+                                    <a target="_blank" rel="noopener noreferrer" class="social-list-twitter"
+                                       href="https://twitter.com/intent/tweet?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20%20https://xauman.com/"
+                                       aria-label="twitter follow button"><i class="fa fa-twitter align-middle"></i>Twitter</a>
+                                </li>
+                                <li class="border-bottom border-secondary mx-3 my-2">
+                                    <a target="_blank" rel="noopener noreferrer" class="social-list-whatsapp"
+                                       href="whatsapp://send?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20https://xauman.com/"
+                                       aria-label="whatsapp follow button"><i class="fa fa-whatsapp align-middle"></i>Whatsapp</a>
+                                </li>
+                                <li class="mx-3 my-2">
+                                    <a target="_blank" rel="noopener noreferrer" class="social-list-telegram"
+                                       href="https://t.me/share/url?url=https://xauman.com/&text=We are seasoned Gold Forex Traders helping individuals and institutions meet and surpass their financial goals."
+                                       aria-label="telegram follow button"><i class="fa fa-telegram align-middle"></i>Telegram</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <span class="navbar-brand"> Coming soon!! </span>
+            </div>
+        </div>
     </header>
-    <div class="container">
+    <div class="container-fluid text-center h-100">
         <div class="loader navbar-brand">
             <img src="src/logos/XAU-114x114.webp" alt="" />
         </div>
-        <main role="main" class="pb-3">
+        <main role="main">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted bg-dark" id="footer">
+    <footer class="footer text-muted bg-dark" id="footer">
         <div class="gutter"></div>
         <div class="container overflow-hidden">
             <div class="row align-items-center">
@@ -168,7 +235,7 @@
 
                     </div>
                     <div class="collapse d-md-block text-darken" id="footer-menu">
-                        <ul class="no-icon-list"> 
+                        <ul class="no-icon-list">
                             <li><a asp-area="" asp-page="/Home">Home</a></li>
                             <li><a asp-area="" asp-page="/About">About</a></li>
                             <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
@@ -178,7 +245,8 @@
                     </div>
                 </div><!-- footer menu two start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase list-title col-footer">Learn more
+                    <div class="font-montserrat text-uppercase list-title col-footer">
+                        Learn more
                         <button type="button" id="btn-close-2" class="btn-close btn-close-white" aria-label="Collapse2"
                                 data-bs-toggle="collapse" data-bs-target="#footer-learn" aria-expanded="false" aria-controls="collapseExample2" data-click-count></button>
                     </div>
@@ -191,7 +259,8 @@
                     </div>
                 </div><!-- footer menu three start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase list-title col-footer">Support
+                    <div class="font-montserrat text-uppercase list-title col-footer">
+                        Support
                         <button type="button" id="btn-close-3" class="btn-close btn-close-white" aria-label="Collapse3"
                                 data-bs-toggle="collapse" data-bs-target="#footer-support" aria-expanded="false" aria-controls="collapseExample3" data-click-count></button>
                     </div>
@@ -202,7 +271,8 @@
                     </div>
                 </div><!-- footer social icons start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase list-title col-footer">Legal
+                    <div class="font-montserrat text-uppercase list-title col-footer">
+                        Legal
                         <button type="button" id="btn-close-4" class="btn-close btn-close-white" aria-label="Collapse4"
                                 data-bs-toggle="collapse" data-bs-target="#footer-legal" aria-expanded="false" aria-controls="collapseExample4" data-click-count></button>
                     </div>

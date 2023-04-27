@@ -97,8 +97,16 @@
       "PackagePath": "staticwebassets\\src\\img\\Forex-02.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Gold-03.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-04.jpg",
       "PackagePath": "staticwebassets\\src\\img\\Gold-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Gold-05.jpg"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-02.jpg",
@@ -147,6 +155,10 @@
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Trading-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\Trading-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slide.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slide.jpg"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-114x114.png",
