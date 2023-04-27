@@ -44,18 +44,26 @@ function xau_set_event_listeners() {
     XAU_EL.email.addEventListener("keyup", xau_can_submit);
 }
 
-// Footer Collapse Button
-const closeBtn = document.querySelector('.btn-close');
-let clickCount = 0;
+const button = {
+    button1: document.getElementById("btn-close-1"),
+    button2: document.getElementById("btn-close-2"),
+    button3: document.getElementById("btn-close-3"),
+    button4: document.getElementById("btn-close-4")
+};
 
-closeBtn.addEventListener('click', () => {
-    clickCount++;
+button.setAttribute('data-click-count', 0);
 
-    if (clickCount === 2) {
-        closeBtn.blur();
-        clickCount = 0;
+button.addEventListener('click', () => {
+    button.classList.add("btn-click");
+    const clickCount = parseInt(button.getAttribute('data-click-count'));
+    button.setAttribute('data-click-count', clickCount + 1); // increment click count by 1 for each button
+
+    if (clickCount === 1) {
+        button.classList.remove("btn-click");
+        button.setAttribute('data-click-count', 0); // reset click count to 0 for each button
     }
 });
+
 
 //Add event listeners
 xau_set_event_listeners();
@@ -165,3 +173,21 @@ var Xauman = {
 $(document).ready(function () {
     Xauman.init();
 });
+
+//REFERENCE FILES
+// Footer Collapse Buttons
+// const closeBtns = document.querySelectorAll('.btn-close');
+// let clickCount = 0;
+
+// closeBtns.forEach((closeBtn) => {
+//     closeBtn.addEventListener('click', () => {
+//         clickCount++;
+
+//         if (clickCount === 2) {
+//             closeBtn.blur();
+//             clickCount = 0;
+//         }
+//     });
+// });
+
+

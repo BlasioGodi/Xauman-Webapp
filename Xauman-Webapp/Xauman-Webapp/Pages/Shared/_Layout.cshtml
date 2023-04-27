@@ -155,7 +155,7 @@
                 <!-- footer about start -->
                 <div class="col-md-3 col-sm-12 col-xs-12">
                     <div class="font-montserrat text-uppercase color-black list-title">About Us</div>
-                    <p>
+                    <p class="text-darken">
                         We are seasoned Traders in the financial markets, specializing in Gold Trading. We help individuals and organizations achieve
                         their financial goals through trading the markets.
                     </p>
@@ -163,12 +163,12 @@
                 <div class="col-md-2 col-md-offset-1 col-sm-3 col-xs-4">
                     <div class="font-montserrat text-uppercase color-black list-title col-footer">
                         Menu
-                    <button type="button" id="footer-close" class="btn-close btn-close-white" aria-label="Collapse" data-bs-dismiss="modal"
-                                data-bs-toggle="collapse" data-bs-target="#footer-menu" aria-expanded="false" aria-controls="collapseExample"></button>
+                        <button type="button" id="btn-close-1" class="btn-close btn-close-white" aria-label="Collapse1"
+                                data-bs-toggle="collapse" data-bs-target="#footer-menu" aria-expanded="false" aria-controls="collapseExample1" data-click-count></button>
 
                     </div>
                     <div class=" collapse d-md-block" id="footer-menu">
-                        <ul class="no-icon-list color-black">
+                        <ul class="no-icon-list"> 
                             <li><a asp-area="" asp-page="/Home">Home</a></li>
                             <li><a asp-area="" asp-page="/About">About</a></li>
                             <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
@@ -178,55 +178,79 @@
                     </div>
                 </div><!-- footer menu two start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Learn more</div>
-                    <ul class="no-icon-list d-md-block d-none">
-                        <li><a asp-area="" asp-page="/Forex">Forex Market</a></li>
-                        <li><a asp-area="" asp-page="/Gold">Gold Market</a></li>
-                        <li><a asp-area="" asp-page="/FAQ">FAQ</a></li>
-                    </ul>
+                    <div class="font-montserrat text-uppercase list-title col-footer">Learn more
+                        <button type="button" id="btn-close-2" class="btn-close btn-close-white" aria-label="Collapse2"
+                                data-bs-toggle="collapse" data-bs-target="#footer-learn" aria-expanded="false" aria-controls="collapseExample2" data-click-count></button>
+                    </div>
+                    <div class="collapse d-md-block" id="footer-learn">
+                        <ul class="no-icon-list ">
+                            <li><a asp-area="" asp-page="/Forex">Forex Market</a></li>
+                            <li><a asp-area="" asp-page="/Gold">Gold Market</a></li>
+                            <li><a asp-area="" asp-page="/FAQ">FAQ</a></li>
+                        </ul>
+                    </div>
                 </div><!-- footer menu three start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Support</div>
-                    <ul class="no-icon-list d-md-block d-none">
-                        <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
-                    </ul>
+                    <div class="font-montserrat text-uppercase list-title col-footer">Support
+                        <button type="button" id="btn-close-3" class="btn-close btn-close-white" aria-label="Collapse3"
+                                data-bs-toggle="collapse" data-bs-target="#footer-support" aria-expanded="false" aria-controls="collapseExample3" data-click-count></button>
+                    </div>
+                    <div class="collapse d-md-block" id="footer-support">
+                        <ul class="no-icon-list">
+                            <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
+                        </ul>
+                    </div>
                 </div><!-- footer social icons start -->
                 <div class="col-md-2 col-sm-3 col-xs-4">
-                    <div class="font-montserrat text-uppercase color-black list-title col-footer">Legal</div>
-                    <ul class="no-icon-list d-md-block d-none">
-                        <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
-                        <li><a asp-area="" asp-page="/TermsofUse">Terms of Use</a></li>
-                        <li><a asp-area="" asp-page="/RiskDisclosure">Risk Disclosure</a></li>
-                    </ul>
+                    <div class="font-montserrat text-uppercase list-title col-footer">Legal
+                        <button type="button" id="btn-close-4" class="btn-close btn-close-white" aria-label="Collapse4"
+                                data-bs-toggle="collapse" data-bs-target="#footer-legal" aria-expanded="false" aria-controls="collapseExample4" data-click-count></button>
+                    </div>
+                    <div class="collapse d-md-block" id="footer-legal">
+                        <ul class="no-icon-list">
+                            <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
+                            <li><a asp-area="" asp-page="/TermsofUse">Terms of Use</a></li>
+                            <li><a asp-area="" asp-page="/RiskDisclosure">Risk Disclosure</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
             <div class="gutter">
             </div>
             <div class="row">
-                <div class="my-2 border-bottom border-danger">
+                <div class="my-2 gx-5 border-bottom border-danger">
                 </div>
-                <div class="col-md-6">
-                     <p>Risk Disclosure: Trading in financial markets involves significant risk and can result in financial loss. Our educational resources are
-                         designed to help you understand the basics of trading and develop your skills, but they do not guarantee profitable trading or protect 
-                         against losses. You should carefully consider your financial situation and investment objectives before engaging in trading, seek professional 
-                         financial advice, and only invest money that you can afford to lose. Remember that the markets can be volatile and unpredictable, and 
-                         leverage and margin trading can increase the risks associated with trading. By using our educational resources, you acknowledge that you 
-                         are responsible for your own trading decisions and the associated risks.</p>
+                <div class="col-md-6 text-darken">
+                    <p>
+                        <strong class="text-red">Risk Disclosure:</strong> Trading in financial markets involves significant risk and can result in financial loss. Our educational resources are
+                        designed to help you understand the basics of trading and develop your skills, but they do not guarantee profitable trading or protect
+                        against losses.
+                    </p> <p>
+                        You should carefully consider your financial situation and investment objectives before engaging in trading, seek professional
+                        financial advice, and only invest money that you can afford to lose. Remember that the markets can be volatile and unpredictable, and
+                        leverage and margin trading can increase the risks associated with trading.
+                    </p> <p>
+                        By using our educational resources, you acknowledge that you
+                        are responsible for your own trading decisions and the associated risks.
+                    </p>
                 </div>
-
-                <div class="col-md">
-                    <p>CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 84.60% of retail investor accounts lose money when 
-                            trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford 
-                            to take the high risk of losing your money.</p>
+                <div class="col-md-6 text-darken">
+                    <p>
+                        <strong class="text-blue">CFDs (Contracts-for-Difference)</strong> are complex instruments and come with a high risk of losing money rapidly due to leverage. 84.60% of retail investor accounts lose money when
+                        trading CFDs.
+                    </p> <p>
+                        You should consider whether you understand how CFDs work and whether you can afford
+                        to take the high risk of losing your money.
+                    </p>
                 </div>
             </div>
         </div>
         <div class="container-fluid bg-black">
-            <div class="row text-muted">
+            <div class="row">
                 <div class="col-md-6 mb-2 col-lg-6 col-sm-12 text-center">
-                    &copy <strong>XAU</strong>man Forex 2023 - All Rights Reserved.
+                    &copy <strong class="text-red">XAU</strong><span class="text-blue">man </span>Forex 2023 - All Rights Reserved.
                 </div>
-                <div class="col-md-6 mb-2 col-lg-6 col-sm-12 text-center">
+                <div class="col-md-6 mb-2 col-lg-6 col-sm-12 text-center text-muted">
                     Designed by <strong class="text-white">Blasio</strong>
                 </div>
             </div>

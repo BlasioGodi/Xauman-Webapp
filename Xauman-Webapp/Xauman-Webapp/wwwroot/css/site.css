@@ -581,6 +581,8 @@ textarea.form-control {
 
 .list-title {
   color: #dadada;
+  font-family: var(--bs-title-font-family);
+  font-weight: 500;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -596,30 +598,40 @@ footer .col-footer .title i {
   font-size: 8px;
 }
 
-[class^="fx-symbol-"],
-[class*=" fx-symbol-"] {
-  font-family: "fx-symbols-web-2-0" !important;
-  speak: never;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.text-blue,
+.text-red {
+  font-family: var(--bs-title-font-family);
+}
+
+.text-red {
+  color: var(--text-color-red);
+}
+
+.text-blue {
+  color: var(--text-color-blue);
+}
+
+.text-darken {
+  color: rgb(194, 193, 193);
 }
 
 @media (min-width: 575px) {
   footer .col-footer {
     border: none;
   }
-  #footer-close {
+  #btn-close-1,
+  #btn-close-2,
+  #btn-close-3,
+  #btn-close-4 {
     display: none;
   }
 }
 
 @media (max-width: 768px) {
-  #footer-close {
+  #btn-close-1,
+  #btn-close-2,
+  #btn-close-3,
+  #btn-close-4 {
     display: block;
   }
 }
@@ -637,6 +649,13 @@ footer .col-footer .title i {
 .btn-close-white:focus {
   outline: none;
   box-shadow: none;
+}
+
+.btn-click {
+  transform: rotate(90deg) scale(0.75);
+}
+
+.d-md-block.collapse.show:focus {
   transform: rotate(90deg) scale(0.75);
 }
 
