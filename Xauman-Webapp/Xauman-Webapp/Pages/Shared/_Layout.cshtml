@@ -59,25 +59,39 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="row" style="min-height:100vh;">
-            <div class="col">
-                <div id="home-section">
-                    <div id="back-home">
-                        <img src="~/src/img/slide.jpg" />
-                    </div>
-                </div>
+    <div id="carousel-bg" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/src/img/slider/FX-01.jpg" class="d-block w-100" alt="image-slide1">
+            </div>
+            <div class="carousel-item">
+                <img src="~/src/img/slider/FX-02.jpg" class="d-block w-100" alt="image-slide2">
+            </div>
+            <div class="carousel-item">
+                <img src="~/src/img/slider/FX-03.jpg" class="d-block w-100" alt="image-slide3">
+            </div>
+            <div class="carousel-item">
+                <img src="~/src/img/slider/FX-04.jpg" class="d-block w-100" alt="image-slide4">
+            </div>
+            <div class="carousel-item">
+                <img src="~/src/img/slider/FX-05.jpg" class="d-block w-100" alt="image-slide5">
             </div>
         </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-bg" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-bg" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
-        
-
     <header class="clearfix">
         <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-black background-bg shadow h-100" id="nav-bg">
             <div class="position-absolute top-0 start-0 w-100 h-100 bg-black opacity-50" style="pointer-events: none"></div>
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">
-                    <img src="src/logos/XAU-32x32.webp" alt="Xauman Logo"
+                    <img src="~/src/logos/XAU-32x32.webp" alt="Xauman Logo"
                          class="d-inline-block align-text-center mx-2" /><strong class="text-color-red">XAU</strong><strong class="text-color-blue">man</strong>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasXauman"
@@ -236,11 +250,21 @@
                     </div>
                     <div class="collapse d-md-block text-darken" id="footer-menu">
                         <ul class="no-icon-list">
-                            <li><a asp-area="" asp-page="/Home">Home</a></li>
-                            <li><a asp-area="" asp-page="/About">About</a></li>
-                            <li><a asp-area="" asp-page="/Knowledge">Knowledge</a></li>
-                            <li><a asp-area="" asp-page="/Analysis">Analysis</a></li>
-                            <li><a asp-area="" asp-page="/TradingBots">Trading Bots</a></li>
+                            <li>
+                                <a asp-area="" asp-page="/Home">Home</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/About">About</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/Knowledge">Knowledge</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/Analysis">Analysis</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/TradingBots">Trading Bots</a>
+                            </li>
                         </ul>
                     </div>
                 </div><!-- footer menu two start -->
@@ -252,9 +276,15 @@
                     </div>
                     <div class="collapse d-md-block text-darken" id="footer-learn">
                         <ul class="no-icon-list ">
-                            <li><a asp-area="" asp-page="/Forex">Forex Market</a></li>
-                            <li><a asp-area="" asp-page="/Gold">Gold Market</a></li>
-                            <li><a asp-area="" asp-page="/FAQ">FAQ</a></li>
+                            <li>
+                                <a asp-area="" asp-page="/Forex">Forex Market</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/Gold">Gold Market</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/FAQ">FAQ</a>
+                            </li>
                         </ul>
                     </div>
                 </div><!-- footer menu three start -->
@@ -266,7 +296,9 @@
                     </div>
                     <div class="collapse d-md-block text-darken" id="footer-support">
                         <ul class="no-icon-list">
-                            <li><a asp-area="" asp-page="/Contact">Contact Us</a></li>
+                            <li>
+                                <a asp-area="" asp-page="/Contact">Contact Us</a>
+                            </li>
                         </ul>
                     </div>
                 </div><!-- footer social icons start -->
@@ -278,9 +310,15 @@
                     </div>
                     <div class="collapse d-md-block text-darken" id="footer-legal">
                         <ul class="no-icon-list">
-                            <li><a asp-area="" asp-page="/Privacy">Privacy Policy</a></li>
-                            <li><a asp-area="" asp-page="/TermsofUse">Terms of Use</a></li>
-                            <li><a asp-area="" asp-page="/RiskDisclosure">Risk Disclosure</a></li>
+                            <li>
+                                <a asp-area="" asp-page="/Privacy">Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/TermsofUse">Terms of Use</a>
+                            </li>
+                            <li>
+                                <a asp-area="" asp-page="/RiskDisclosure">Risk Disclosure</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -295,11 +333,13 @@
                         <strong class="text-red">Risk Disclosure:</strong> Trading in financial markets involves significant risk and can result in financial loss. Our educational resources are
                         designed to help you understand the basics of trading and develop your skills, but they do not guarantee profitable trading or protect
                         against losses.
-                    </p> <p>
+                    </p>
+                    <p>
                         You should carefully consider your financial situation and investment objectives before engaging in trading, seek professional
                         financial advice, and only invest money that you can afford to lose. Remember that the markets can be volatile and unpredictable, and
                         leverage and margin trading can increase the risks associated with trading.
-                    </p> <p>
+                    </p>
+                    <p>
                         By using our educational resources, you acknowledge that you
                         are responsible for your own trading decisions and the associated risks.
                     </p>
@@ -308,7 +348,8 @@
                     <p>
                         <strong class="text-blue">CFDs (Contracts-for-Difference)</strong> are complex instruments and come with a high risk of losing money rapidly due to leverage. 84.60% of retail investor accounts lose money when
                         trading CFDs.
-                    </p> <p>
+                    </p>
+                    <p>
                         You should consider whether you understand how CFDs work and whether you can afford
                         to take the high risk of losing your money.
                     </p>
@@ -318,10 +359,13 @@
         <div class="container-fluid bg-black">
             <div class="row">
                 <div class="col-md-6 mb-2 col-lg-6 col-sm-12 text-center">
-                    &copy <strong class="text-red">XAU</strong><span class="text-blue">man </span>Forex 2023 - All Rights Reserved.
+                    &copy
+                    <strong class="text-red">XAU</strong>
+                    <span class="text-blue">man </span>Forex 2023 - All Rights Reserved.
                 </div>
                 <div class="col-md-6 mb-2 col-lg-6 col-sm-12 text-center text-muted">
-                    Designed by <strong class="text-white">Blasio</strong>
+                    Designed by
+                    <strong class="text-white">Blasio</strong>
                 </div>
             </div>
         </div>

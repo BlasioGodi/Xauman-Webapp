@@ -161,6 +161,46 @@
       "PackagePath": "staticwebassets\\src\\img\\slide.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-04.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Forex-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Forex-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-05.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-114x114.png",
       "PackagePath": "staticwebassets\\src\\logos\\XAU-114x114.png"
     },
