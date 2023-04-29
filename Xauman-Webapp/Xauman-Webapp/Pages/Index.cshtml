@@ -2,9 +2,152 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
-    string tiktokUsername = "@xaumanforex_xmf";
 }
-    <div class="row justify-content-center align-items-center">
-        <div class="row-cols-lg-auto background-bg position-relative" id="main-bg">
+<div class="row justify-content-center align-items-center">
+    <div class="row-cols-lg-auto background-bg position-relative" id="main-bg">
+    </div>
+</div>
+
+<!-- blog
+            ================================================== -->
+<div class="section">
+    <div id="blog-section">
+        <div class="container">
+            <div class="title-section triggerAnimation animated" data-animate="bounceIn">
+                <h1>Recent Posts</h1>
+                <p>
+                    This is Photoshop's version of Lorem Ipsum. Proin gravida
+                </p>
+            </div>
+            <div class="blog-box triggerAnimation animated" data-animate="fadeInDown">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="blog-post">
+                            <img alt="" src="upload/image2.jpg">
+                            <a href="#" class="read-more"><i class="fa fa-arrow-circle-right"></i></a>
+                            <div class="date-post">
+                                <ul class="post-tags">
+                                    <li><a href="#"><i class="fa fa-clock-o"></i>19 Oct 2014</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i>14 Comments</a></li>
+                                </ul>
+                            </div>
+                            <h2>
+                                <a href="single-post.html">Mobile Friendly Comments Dashboardnow launched!</a>
+                            </h2>
+                            <p>
+                                Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti
+                                sociosqu
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="blog-post">
+                            <img alt="" src="upload/image3.jpg">
+                            <a href="#" class="read-more"><i class="fa fa-arrow-circle-right"></i></a>
+                            <div class="date-post">
+                                <ul class="post-tags">
+                                    <li><a href="#"><i class="fa fa-clock-o"></i>14 Feb 2014</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i>5 Comments</a></li>
+                                </ul>
+                            </div>
+                            <h2>
+                                <a href="single-post.html">Mobile Friendly Comments Dashboardnow launched!</a>
+                            </h2>
+                            <p>
+                                Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti
+                                sociosqu
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="blog-post">
+                            <img alt="" src="upload/image4.jpg">
+                            <a href="#" class="read-more"><i class="fa fa-arrow-circle-right"></i></a>
+                            <div class="date-post">
+                                <ul class="post-tags">
+                                    <li><a href="#"><i class="fa fa-clock-o"></i>19 May 2014</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i>10 Comments</a></li>
+                                </ul>
+                            </div>
+                            <h2>
+                                <a href="single-post.html">Mobile Friendly Comments Dashboardnow launched!</a>
+                            </h2>
+                            <p>
+                                Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti
+                                sociosqu
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+</div>
+<!-- End blog -->
+<!-- Contacts Section -->
+<div class="section text-bg-dark bg-opacity-75">
+    <div id="contact-section">
+        <div class="contact-content">
+            <div class="container">
+                <div class="title-section white text-center" data-animate="bounceIn">
+                    <h1>Get in touch with us!</h1>
+                    <p>
+                        We would like to hear more from you and engage you further on the Financial Markets. We have a lot to share!
+                    </p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center" data-animate="fadeInLeft">
+                        <div class="contact-info">
+                            <p>
+                                Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
+                                ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non
+                                mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad
+                                litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat
+                                justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non
+                            </p>
+                        </div>
+                        <div class="contact-info-list gx-0 row">
+                            <div class="col-md-4">
+                                <i class="fa fa-home"></i> lorem ipsum street
+                            </div>
+                            <div class="col-md-4">
+                                <i class="fa fa-phone"></i> +399 (500) 321 9548
+                            </div>
+                            <div class="col-md-4">
+                                <i class="fa fa-envelope"></i><a href="#">info@domain.com</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 triggerAnimation animated" data-animate="fadeInRight">
+                        <form id="contact-form">
+                            <div class="row">
+                                <div class="text-fields col-md-6 mb-2">
+                                    <div class="float-input">
+                                        <input name="name" id="name" type="text" placeholder="Name">
+                                        <span><i class="fa fa-user"></i></span>
+                                    </div>
+                                    <div class="float-input">
+                                        <input name="mail" id="mail" type="text" placeholder="e-mail">
+                                        <span><i class="fa fa-envelope-o"></i></span>
+                                    </div>
+                                    <div class="float-input">
+                                        <input name="website" id="website" type="text" placeholder="website">
+                                        <span><i class="fa fa-link"></i></span>
+                                    </div>
+                                </div>
+                                <div class="submit-area col-md-6">
+                                    <textarea name="comment" id="comment" placeholder="Message"></textarea>
+                                    <input type="submit" id="submit_contact" class="main-button"
+                                           value="Send Message">
+                                    <div id="msg" class="message">
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Contacts -->

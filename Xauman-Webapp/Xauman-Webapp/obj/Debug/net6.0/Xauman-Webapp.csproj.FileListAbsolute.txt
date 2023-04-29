@@ -21,9 +21,7 @@ D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\stati
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\staticwebassets.pack.json
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\staticwebassets.build.json
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\staticwebassets.development.json
-D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\scopedcss\bundle\Xauman-Webapp.styles.css
-D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\scopedcss\projectbundle\Xauman-Webapp.bundle.scp.css
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\Xauman-Webapp.dll
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\refint\Xauman-Webapp.dll
 D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Debug\net6.0\Xauman-Webapp.pdb

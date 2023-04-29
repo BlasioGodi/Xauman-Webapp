@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xauman-Webapp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Xauman-Webapp.bundle.scp.css"
-    },
-    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css",
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
     },

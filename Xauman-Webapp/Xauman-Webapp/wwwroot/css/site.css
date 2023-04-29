@@ -45,12 +45,13 @@
   6.  Experience
   7.  Clients
   8   Blog
-
       8.1 Blog Details
       8.2 Widgets
       8.3 Widget Recent Post
 
-  9.  Contacts  
+  9.  Contacts
+      9.1 Styling
+      9.2 Forms
   10. Footer
       10.1 Styling
       10.2 Drop-down Settings
@@ -294,7 +295,7 @@ textarea.form-control {
 
 #sub_button {
     opacity: 0.2;
-    z-index: 2;
+    z-index: 1;
 }
 
     #sub_button:hover {
@@ -324,7 +325,6 @@ textarea.form-control {
     align-items: center;
     background-color: #f7f9fb;
     transition: opacity 0.75s, visibility 0.75s;
-    z-index: 1;
 }
 
     .loader img {
@@ -482,7 +482,6 @@ textarea.form-control {
     padding: 12px;
     width: 8rem;
     height: 8rem;
-    z-index: 2;
 }
 
     .carousel-logo img {
@@ -614,6 +613,395 @@ textarea.form-control {
     margin-right: 7px;
     font-size: 1.5em;
 }
+
+/*-------------------------------------------------------------------------------
+  8. Blog
+-------------------------------------------------------------------------------*/
+/* 8.1 Blog Details */
+#blog-section {
+    padding: 80px 0 40px;
+}
+
+.blog-post {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+    .blog-post img {
+        width: 100%;
+    }
+
+.date-post {
+    text-align: center;
+    background: #358eef;
+    margin-bottom: 13px;
+    background: #358eef;
+    padding: 14px 0 14px 0;
+}
+
+ul.post-tags {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+    ul.post-tags li {
+        display: inline-block;
+        margin: 0 6px;
+    }
+
+        ul.post-tags li:first-child {
+            margin-right: 10px;
+        }
+
+        ul.post-tags li a {
+            display: inline-block;
+            font-family: Raleway;
+            font-weight: 300;
+            font-size: 15px;
+            color: #fff;
+            line-height: 16px;
+        }
+
+.blog-post .read-more i {
+    color: #fff;
+    text-align: center;
+    margin-left: 24px;
+    line-height: 68px;
+    font-size: 23px;
+}
+
+.blog-post .read-more {
+    position: absolute;
+    top: 108px;
+    margin-left: -34px;
+    left: 0%;
+    width: 68px;
+    height: 68px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #358eef;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+    .blog-post .read-more:hover {
+        background: #000;
+    }
+
+.blog-post:hover > a.read-more {
+    position: absolute;
+    top: 108px;
+    left: 50%;
+    opacity: 1;
+    z-index: 99999;
+    background:
+}
+
+ul.post-tags li a i {
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 11px;
+}
+
+.blog-post h2 {
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 19px;
+    color: #454545;
+    line-height: 26px;
+    text-align: center;
+    margin: 13px 0 15px;
+}
+
+    .blog-post h2 a {
+        display: inline-block;
+        color: #454545;
+        padding: 0 0 15px;
+        border-bottom: 1px solid #cccccc;
+        text-decoration: none !important;
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+    }
+
+        .blog-post h2 a:hover {
+            opacity: 0.7;
+        }
+
+.blog-post p {
+    font-family: Raleway;
+    font-size: 15px;
+    color: #919191;
+    line-height: 22px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+    max-height: 63px;
+    overflow: hidden;
+    transition: all 0.17s ease-in-out;
+    -moz-transition: all 0.17s ease-in-out;
+    -webkit-transition: all 0.17s ease-in-out;
+    -o-transition: all 0.17s ease-in-out;
+}
+
+.date-post {
+    margin-top: -52px;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.blog-post:hover > .date-post {
+    display: block;
+    margin-top: 0px;
+    opacity: 1;
+}
+
+.blog-post:hover > img {
+    -webkit-filter: grayscale(90%);
+    -moz-filter: grayscale(90%);
+    filter: grayscale(90%);
+}
+
+/*-------------------------------------------------------------------------------
+  9. Contacts
+-------------------------------------------------------------------------------*/
+    /* 9.1 Styling */
+    #contact-section {
+    padding: 100px 0 70px;
+    position: relative;
+}
+
+    #contact-section:after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        content: '';
+        width: 100%;
+        height: 100%;
+        background: url(../images/contact-bg.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+.contact-content {
+    position: relative;
+    z-index: 2;
+}
+
+.contact-info h1 {
+    font-size: 30px;
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 300;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+.contact-info p {
+    text-align: center;
+}
+
+#contact-form {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.contact-info {
+    margin-bottom: 14px;
+}
+
+    .contact-info p {
+        font-size: 15px;
+        color: #fff;
+        font-family: Raleway;
+        font-weight: 300;
+        line-height: 26px;
+        margin-bottom: 17px;
+        background: rgba(255,255,255,0.1);
+        padding: 40px;
+    }
+
+contact-info-list {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.contact-info-list div {
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 14px;
+    border: 1px solid rgba(255,255,255,0.2);
+    transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+    .contact-info-list div i {
+        font-size: 17px;
+        color: #fff;
+        margin-right: 10px;
+    }
+
+    .contact-info-list div a {
+        color: #fff;
+    }
+
+    .contact-info-list div:hover {
+        background: #358eef;
+        color: #fff;
+        border: none;
+        cursor: crosshair;
+    }
+
+.text-fields {
+    float: left;
+}
+
+.submit-area {
+    float: right;
+}
+
+.float-input {
+    position: relative;
+    padding-left: 58px;
+}
+
+    .float-input span {
+        position: absolute;
+        width: 65px;
+        height: 63px;
+        background: #358eef;
+        top: 0px;
+        left: 0px;
+        z-index: 2;
+        text-align: center;
+    }
+
+        .float-input span i {
+            line-height: 40px;
+            font-size: 15px;
+            color: #fff;
+            display: inline-block;
+            width: 42px;
+            height: 42px;
+            text-align: center;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -o-border-radius: 50%;
+            border: 1px solid #358eef;
+            margin-top: 13px;
+            transition: all 0.2s ease-in-out;
+            -moz-transition: all 0.2s ease-in-out;
+            -webkit-transition: all 0.2s ease-in-out;
+            -o-transition: all 0.2s ease-in-out;
+            padding-left: 2px;
+        }
+
+#contact-form {
+    margin-top: 14px;
+}
+
+    #contact-form input[type="text"], #contact-form textarea, .comment-form input[type="text"], .comment-form textarea {
+        color: #848484;
+        font-size: 14px;
+        font-family: Raleway;
+        font-weight: 300;
+        border: 1px solid rgba(255,255,255,0.2);
+        border-left: none;
+        border-radius: 0px;
+        outline: none;
+        width: 100%;
+        padding: 20px;
+        display: block;
+        margin-bottom: -1px;
+        transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        background: transparent;
+    }
+
+        #contact-form input[type="text"]:focus + span i, .comment-form input[type="text"]:focus + span i {
+            color: #fff;
+            background: transparent;
+            border: 1px solid rgba(255,255,255,0.7);
+        }
+
+    #contact-form textarea, .comment-form textarea {
+        height: 126px;
+        border: 1px solid rgba(255,255,255,0.2);
+    }
+
+    #contact-form input[type="submit"], .comment-form input[type="submit"] {
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 14px;
+        font-family: Raleway;
+        font-weight: 300;
+        padding: 20px;
+        background: #358eef;
+        text-transform: uppercase;
+        border: none;
+        transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+    }
+
+        #contact-form input[type="submit"]:hover, .comment-form input[type="submit"]:hover {
+            opacity: 0.8;
+        }
+
+    #contact-form .message, .comment-form .message {
+        height: 20px;
+        font-size: 13px;
+        font-family: 'Raleway',sans-serif;
+        font-weight: 300;
+        float: none;
+        margin-top: 5px;
+    }
+
+        #contact-form .message.error, .comment-form .message.error {
+            color: #eb2c06;
+            background: #fff;
+            padding: 20px;
+            line-height: 0;
+            font-weight: bold;
+            font-size: 15px;
+        }
+
+        #contact-form .message.success, .comment-form .message.success {
+            color: #6dd555;
+            background: #fff;
+            padding: 20px;
+            line-height: 0;
+            font-weight: bold;
+            font-size: 15px;
+        }
+
+
+
 
 /*-------------------------------------------------------------------------------
   10. Footer
@@ -750,104 +1138,8 @@ footer .btn-close-white:hover {
         background-size: cover;
     }
 
-.flexslider {
-    top: 50%;
-    margin-top: -100px;
-    position: absolute;
-    width: 100%;
-    z-index: 2;
-}
 
-.flexcaption {
-    max-width: 1170px;
-    padding: 0 90px;
-    margin: 0 auto;
-    text-align: center;
-}
 
-    .flexcaption h1 {
-        color: #ffffff;
-        font-size: 78px;
-        font-family: Anton;
-        margin: 30px 15px 4px 15px;
-    }
 
-        .flexcaption h1 span {
-            display: inline-block;
-        }
 
-            .flexcaption h1 span.diff-color {
-                color: #358eef;
-                font-weight: bold;
-            }
 
-    .flexcaption > p {
-        color: #ffffff;
-        font-size: 26px;
-        font-family: Raleway;
-        font-weight: 300;
-        line-height: 27px;
-        max-width: 640px;
-        margin: 0 auto 25px;
-        text-transform: uppercase;
-    }
-
-    .flexcaption > a {
-        display: inline-block;
-        color: #ffffff;
-        font-size: 17px;
-        font-family: Raleway;
-        font-weight: 300;
-        text-transform: uppercase;
-        text-decoration: none;
-        position: relative;
-        padding: 14px 30px;
-        transition: all 0.17s ease-in-out;
-        -moz-transition: all 0.17s ease-in-out;
-        -webkit-transition: all 0.17s ease-in-out;
-        -o-transition: all 0.17s ease-in-out;
-    }
-
-        .flexcaption > a:after {
-            position: absolute;
-            content: "";
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            transition: all 0.17s ease-in-out;
-            -moz-transition: all 0.17s ease-in-out;
-            -webkit-transition: all 0.17s ease-in-out;
-            -o-transition: all 0.17s ease-in-out;
-            -webkit-backface-visibility: hidden;
-            -webkit-border-radius: 15px;
-            -moz-border-radius: 15px;
-            border-radius: 15px;
-        }
-
-        .flexcaption > a:hover:after {
-            transform: skewX(0deg);
-            -webkit-transform: skewX(0deg);
-            -moz-transform: skewX(0deg);
-            -o-transform: skewX(0deg);
-        }
-
-        .flexcaption > a span {
-            position: relative;
-            z-index: 2;
-        }
-
-    .flexcaption i {
-        font-size: 60px;
-        background: #358eef;
-        width: 70px;
-        height: 70px;
-        border-radius: 200px;
-        padding: 6px;
-        padding-top: 8px;
-    }
-
-    .flexcaption > a:hover {
-        color: #fff;
-        opacity: 1;
-    }
