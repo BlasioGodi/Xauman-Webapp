@@ -81,6 +81,54 @@
       "PackagePath": "staticwebassets\\lib\\package.json"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution.extension.video.min.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\scss\\custom.scss",
       "PackagePath": "staticwebassets\\lib\\scss\\custom.scss"
     },

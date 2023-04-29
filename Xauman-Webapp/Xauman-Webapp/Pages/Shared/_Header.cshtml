@@ -1,0 +1,170 @@
+﻿<!--Header Section-->
+
+<div class="carousel-caption ">
+    <img src="~/src/logos/XAU-114x114.webp" style="width:auto; height: 200px;">
+</div>
+<div id="carousel-bg" class="carousel slide">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carousel-bg" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carousel-bg" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carousel-bg" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carousel-bg" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carousel-bg" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/src/img/slider/FX-01.jpg" class="d-block w-100 carousel-image" alt="image-slide1">
+            <div class="carousel-logo"> <img src="~/src/logos/XAU-114x114.webp" class="img-fluid"></div>
+            <div class="card text-bg-dark position-absolute top-25 start-25" style="width:15rem;">
+                <div class="card-body">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptatem quae provident excepturi,
+                    inventore quia ipsa qui impedit consequatur dicta eligendi non dolores cum deserunt velit eveniet, at earum neque.
+                </div>
+            </div>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Some representative placeholder content for the first slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/src/img/slider/FX-02.jpg" class="d-block w-100 carousel-image" alt="image-slide2">
+            <div class="carousel-logo"> <img src="~/src/logos/XAU-114x114.webp" class="img-fluid"></div>
+            <div class="carousel-caption d-none d-md-block position-absolute top-25 start-25">
+                <div class="card text-bg-dark text-start bg-opacity-50">
+                    <div class="card-header border-bottom-0">
+                        <h1 class="display-4 card-title ">Hello, world!</h1>
+                    </div>
+                    <div class="card-body">
+                        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+                        <hr class="my-4">
+                        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+                        <p class="lead">
+                            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/src/img/slider/FX-03.jpg" class="d-block w-100 carousel-image" alt="image-slide3">
+            <div class="carousel-logo"> <img src="~/src/logos/XAU-114x114.webp" class="img-fluid"></div>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Some representative placeholder content for the first slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/src/img/slider/FX-04.jpg" class="d-block w-100 carousel-image" alt="image-slide4">
+            <div class="carousel-logo"> <img src="~/src/logos/XAU-114x114.webp" class="img-fluid"></div>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Some representative placeholder content for the first slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/src/img/slider/FX-05.jpg" class="d-block w-100 carousel-image" alt="image-slide5">
+            <div class="carousel-logo"> <img src="~/src/logos/XAU-114x114.webp" class="img-fluid"></div>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Some representative placeholder content for the first slide.</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carousel-bg" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carousel-bg" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<header class="clearfix">
+    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-black background-bg shadow h-100" id="nav-bg">
+        <div class="position-absolute top-0 start-0 w-100 h-100 bg-black opacity-50" style="pointer-events: none"></div>
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-page="/Index">
+                <img src="~/src/logos/XAU-32x32.webp" alt="Xauman Logo"
+                     class="d-inline-block align-text-center mx-2" /><strong class="text-color-red">XAU</strong><strong class="text-color-blue">man</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasXauman"
+                    aria-controls="offcanvasXauman" aria-label="Toggle navigation">
+                <i class="fa fa-bars"></i>
+            </button>
+            <!--Desktop Navigation-->
+            <div class="collapse navbar-collapse justify-content-end" id="navbarText">
+                <ul class="navbar-nav mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-area="" asp-page="/Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" asp-area="" asp-page="/About">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" asp-area="" asp-page="/Knowledge">Knowledge</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" asp-area="" asp-page="/Analysis">Analysis</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" asp-area="" asp-page="/Trading Bots">Trading Bots</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" asp-area="" asp-page="/Contact">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!--Desktop Navigation End-->
+        </div>
+    </nav>
+    <div class="offcanvas offcanvas-start text-bg-dark" tabindex="-1" id="offcanvasXauman"
+         aria-labelledby="offcanvasXaumanLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasXaumanLabel">
+                <a class="navbar-brand" href="index.html">
+                    <img src="src/logos/XAU-32x32.webp" alt="Xauman Logo"
+                         class="d-inline-block align-text-center mx-2" /><strong class="text-color-red">XAU</strong><strong class="text-color-blue">man</strong>
+                </a>
+            </h5>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <ul class="navbar-nav justify-content-center me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-secondary bg-dark" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseXauman" aria-expanded="false" aria-controls="collapseXauman">
+                        Share on Social Media
+                    </button>
+                    <div class="collapse bg-black" id="collapseXauman">
+                        <ul class="social-list vertical">
+                            <li class="border-bottom border-secondary mx-3 my-2">
+                                <a target="_blank" rel="noopener noreferrer" class="social-list-facebook"
+                                   href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxauman.com"
+                                   aria-label="facebook follow button"><i class="fa fa-facebook align-middle"></i>Facebook</a>
+                            </li>
+                            <li class="border-bottom border-secondary mx-3 my-2">
+                                <a target="_blank" rel="noopener noreferrer" class="social-list-twitter"
+                                   href="https://twitter.com/intent/tweet?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20%20https://xauman.com/"
+                                   aria-label="twitter follow button"><i class="fa fa-twitter align-middle"></i>Twitter</a>
+                            </li>
+                            <li class="border-bottom border-secondary mx-3 my-2">
+                                <a target="_blank" rel="noopener noreferrer" class="social-list-whatsapp"
+                                   href="whatsapp://send?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20https://xauman.com/"
+                                   aria-label="whatsapp follow button"><i class="fa fa-whatsapp align-middle"></i>Whatsapp</a>
+                            </li>
+                            <li class="mx-3 my-2">
+                                <a target="_blank" rel="noopener noreferrer" class="social-list-telegram"
+                                   href="https://t.me/share/url?url=https://xauman.com/&text=We are seasoned Gold Forex Traders helping individuals and institutions meet and surpass their financial goals."
+                                   aria-label="telegram follow button"><i class="fa fa-telegram align-middle"></i>Telegram</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+            <span class="navbar-brand"> Coming soon!! </span>
+        </div>
+    </div>
+</header>
