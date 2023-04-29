@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IFtpBMXl5UvgjL+UhPyNgVG4g3peQDWVUVR/tgxcpOY=",
+  "Hash": "cfKssIZqZU4+DsOijbJwZwlpAGXAIS32r4DYxJT9cAE=",
   "Source": "Xauman-Webapp",
   "BasePath": "_content/Xauman-Webapp",
   "Mode": "Default",
@@ -661,6 +661,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\img\\Gold-05.jpg"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\image2.jpg",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "src/img/image2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\img\\image2.jpg"
     },
     {
       "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo.webp",
