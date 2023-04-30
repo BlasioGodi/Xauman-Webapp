@@ -521,6 +521,12 @@ textarea.form-control {
   height: 10vh;
 }
 
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
 /* 2.2 Vertical Panel */
 /* 2.3 Navbar Desktop */
 /* 2.4 Navbar Desktop Affix */

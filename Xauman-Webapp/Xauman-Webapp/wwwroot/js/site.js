@@ -78,6 +78,7 @@ var Xauman = {
     Component: {
         init: function () {
             this.forms();
+            this.pageheader();
         },
         forms: function () {
 
@@ -169,6 +170,27 @@ var Xauman = {
                     return false;
                 });
             }
+        },
+
+        pageheader: function () {
+            $("h2").each(function (index, element) {
+                var animation = TweenMax.to(this, 0.2, {
+                    className: '+= supershadow',
+                    marginTop: '-10px',
+                    marginBottom: '10px',
+                    ease: Power1.easeIn,
+                    paused: true
+                });
+                element.animation = animation;
+            })
+
+
+            $('h2').hover(function () {
+                this.animation.play()
+            }, function () {
+                this.animation.reverse();
+            })
+
         }
     }
 };
@@ -192,5 +214,6 @@ $(document).ready(function () {
 //         }
 //     });
 // });
+
 
 

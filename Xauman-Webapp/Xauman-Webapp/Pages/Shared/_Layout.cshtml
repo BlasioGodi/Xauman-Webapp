@@ -59,16 +59,12 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link href="~/lib/node_modules/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
-    <link href="~/css/animate.css" rel="stylesheet" asp-append-version="true"/>
-    <link href="~/css/flexslider.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/font-awesome.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/jquery.bxslider.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/lightbox-default-skin.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/magnific-popup.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/menu-hovers.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/nivo-lightbox.css" rel="stylesheet" asp-append-version="true" />
-    <link href="~/css/responsive.css" rel="stylesheet"  asp-append-version="true"/>
-    <link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+    <!-- Revolution Style Sheets -->
+    <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/settings.css">
+    <!-- Revolution Layer Styles -->
+    <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/layers.css">
+    <!-- Revolution Navigation Styles -->
+    <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/navigation.css">
 
 </head>
 <body>
@@ -83,12 +79,38 @@
     </div>
     @await Html.PartialAsync("_Footer")
 
+    <!-- Basic Scripts -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/waypoints.js"></script>
-
     <script src="~/lib/node_modules/swiper/swiper-bundle.min.js"></script>
+    <!-- Load JQUERY library -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.4.js"></script>
+    <!-- Revolution JS Files -->
+    <script type="text/javascript" src="~/lib/rev-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+    <!-- Slider Revolution 5.O Extensions  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript"
+            src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="~/js/revolution.js"></script>
 
     <script>
         // Swiper Initialization
@@ -109,7 +131,6 @@
                 el: ".swiper-pagination",
             },
         });
-
     </script>
 
     @await RenderSectionAsync("Scripts", required: false)
