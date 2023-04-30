@@ -173,17 +173,23 @@ var Xauman = {
     }
 };
 
-// When the user scrolls down 20px from the top of the document, slide down the navbar
-// When the user scrolls to the top of the page, slide up the navbar (50px out of the top view)
-window.onscroll = function () { scrollFunction() };
-
-function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("nav-bg").style.top = "0";
-    } else {
-        document.getElementById("nav-bg").style.top = "-50px";
-    }
-}
+//// Swiper Initialization
+//var swiper = new Swiper(".mySwiper", {
+//    effect: "coverflow",
+//    grabCursor: true,
+//    centeredSlides: true,
+//    slidesPerView: "auto",
+//    coverflowEffect: {
+//        rotate: 50,
+//        stretch: 0,
+//        depth: 100,
+//        modifier: 1,
+//        slideShadows: true,
+//    },
+//    pagination: {
+//        el: ".swiper-pagination",
+//    },
+//});
 
 $(document).ready(function () {
     Xauman.init();

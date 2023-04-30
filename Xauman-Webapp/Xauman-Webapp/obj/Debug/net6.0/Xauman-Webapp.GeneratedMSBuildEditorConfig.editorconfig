@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Xauman_Webapp
 build_property.RootNamespace = Xauman_Webapp
-build_property.ProjectDir = d:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\
+build_property.ProjectDir = D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp
+build_property.MSBuildProjectDirectory = D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Error.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Index.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Privacy.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Footer.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Header.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Layout.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/_ViewImports.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/_ViewStart.cshtml]
+[D:/Git/Websites/Xauman-Webapp/Xauman-Webapp/Xauman-Webapp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
