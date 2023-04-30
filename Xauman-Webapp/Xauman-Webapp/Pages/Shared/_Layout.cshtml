@@ -58,7 +58,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 
     <!-- Link Swiper's CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <link href="~/lib/node_modules/swiper/swiper-bundle.min.css" rel="stylesheet" />
 </head>
 <body>
     @await Html.PartialAsync("_Header")
@@ -76,8 +76,8 @@
     <script src="~/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-    <!-- Initialize Swiper -->
+    <script src="~/lib/node_modules/swiper/swiper-bundle.min.js"></script>
+
     <script>
         var swiper = new Swiper(".mySwiper", {
             effect: "coverflow",
