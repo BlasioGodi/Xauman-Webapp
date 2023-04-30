@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css",
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
     },
@@ -9,20 +17,124 @@
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\lightbox-default-skin.css",
+      "PackagePath": "staticwebassets\\css\\lightbox-default-skin.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\menu-hovers.css",
+      "PackagePath": "staticwebassets\\css\\menu-hovers.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\nivo-lightbox.css",
+      "PackagePath": "staticwebassets\\css\\nivo-lightbox.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery-2.1.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.1.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.imagesloaded.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.imagesloaded.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.migrate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.migrate.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\nivo-lightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\nivo-lightbox.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\plugins-scroll.js",
+      "PackagePath": "staticwebassets\\js\\plugins-scroll.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\retina-1.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\retina-1.1.0.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\swipper_header.js",
-      "PackagePath": "staticwebassets\\js\\swipper_header.js"
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
@@ -495,6 +607,10 @@
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\image2.jpg",
       "PackagePath": "staticwebassets\\src\\img\\image2.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\src\\img\\preloader.gif"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slide.jpg",
