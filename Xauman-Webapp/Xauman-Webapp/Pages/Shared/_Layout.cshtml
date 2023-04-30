@@ -79,7 +79,9 @@
     <script src="~/lib/node_modules/swiper/swiper-bundle.min.js"></script>
 
     <script>
+        // Swiper Initialization
         var swiper = new Swiper(".mySwiper", {
+            initialSlide: 3,
             effect: "coverflow",
             grabCursor: true,
             centeredSlides: true,
@@ -95,6 +97,7 @@
                 el: ".swiper-pagination",
             },
         });
+
     </script>
 
     @await RenderSectionAsync("Scripts", required: false)

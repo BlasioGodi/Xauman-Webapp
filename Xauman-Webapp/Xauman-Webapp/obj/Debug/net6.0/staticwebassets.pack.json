@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\swipper_header.js",
+      "PackagePath": "staticwebassets\\js\\swipper_header.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },

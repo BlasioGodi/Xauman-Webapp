@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uz9EUC6AfqqedM0UvwbojeH9o3Pr644COOFBL3c5dG4=",
+  "Hash": "nSZa4gaL6TfCbZ3g2P8PzZCNXxT+J3fipJ0sxidDnTk=",
   "Source": "Xauman-Webapp",
   "BasePath": "_content/Xauman-Webapp",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\swipper_header.js",
+      "SourceId": "Xauman-Webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\",
+      "BasePath": "_content/Xauman-Webapp",
+      "RelativePath": "js/swipper_header.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\swipper_header.js"
     },
     {
       "Identity": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
