@@ -73,10 +73,6 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\.package-lock.json",
-      "PackagePath": "staticwebassets\\lib\\node_modules\\.package-lock.json"
-    },
-    {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\@popperjs\\core\\package.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\@popperjs\\core\\package.json"
     },
@@ -179,10 +175,6 @@
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\package.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\package.json"
-    },
-    {
-      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\fontawesome\\package.json",
-      "PackagePath": "staticwebassets\\lib\\node_modules\\fontawesome\\package.json"
     },
     {
       "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\ssr-window\\package.json",

@@ -325,6 +325,7 @@ textarea.form-control {
   align-items: center;
   background-color: #f7f9fb;
   transition: opacity 0.75s, visibility 0.75s;
+  z-index:9999;
 }
 
 .loader img {
@@ -1139,7 +1140,6 @@ footer .d-md-block.collapse.show:focus {
 footer .btn-close:hover,
 footer .btn-close-white:hover {
   color: #dbd7e0;
-  transform: rotate(90deg) scale(0.75);
 }
 
 .clearfix-1:before,

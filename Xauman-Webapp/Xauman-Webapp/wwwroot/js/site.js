@@ -54,6 +54,7 @@ const buttons = {
 
 for (const key in buttons) {
     if (buttons.hasOwnProperty(key)) {
+        buttons[key].setAttribute('data-touch-count', 0);
         buttons[key].setAttribute('data-click-count', 0);
 
         buttons[key].addEventListener('click', () => {
@@ -66,10 +67,24 @@ for (const key in buttons) {
                 buttons[key].setAttribute('data-click-count', 0); // reset click count to 0 for each button
             }
         });
+
+        buttons[key].addEventListener('touchstart', () => {
+            buttons[key].classList.add("btn-click");
+            const touchCount = parseInt(buttons[key].getAttribute('data-touch-count'));
+            buttons[key].setAttribute('data-touch-count', touchCount + 1); // increment touch count by 1 for each button
+        });
+
+        buttons[key].addEventListener('touchend', () => {
+            const touchCount = parseInt(buttons[key].getAttribute('data-touch-count'));
+      if (touchCount === 1) {
+                buttons[key].classList.remove("btn-click");
+          buttons[key].setAttribute('data-touch-count', 0);
+            }       
+        });
     }
 }
-//Add event listeners
-xau_set_event_listeners();
+
+
 
 var Xauman = {
     init: function () {
@@ -78,7 +93,6 @@ var Xauman = {
     Component: {
         init: function () {
             this.forms();
-            this.pageheader();
         },
         forms: function () {
 
@@ -170,27 +184,6 @@ var Xauman = {
                     return false;
                 });
             }
-        },
-
-        pageheader: function () {
-            $("h2").each(function (index, element) {
-                var animation = TweenMax.to(this, 0.2, {
-                    className: '+= supershadow',
-                    marginTop: '-10px',
-                    marginBottom: '10px',
-                    ease: Power1.easeIn,
-                    paused: true
-                });
-                element.animation = animation;
-            })
-
-
-            $('h2').hover(function () {
-                this.animation.play()
-            }, function () {
-                this.animation.reverse();
-            })
-
         }
     }
 };

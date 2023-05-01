@@ -8,8 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\lib\node_modules\fontawesome\**" />
+    <Content Remove="wwwroot\lib\node_modules\fontawesome\**" />
+    <EmbeddedResource Remove="wwwroot\lib\node_modules\fontawesome\**" />
+    <None Remove="wwwroot\lib\node_modules\fontawesome\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="wwwroot\lib\node_modules\%40popperjs\core\package.json" />
-    <Content Include="wwwroot\lib\node_modules\.package-lock.json" />
     <Content Include="wwwroot\lib\node_modules\bootstrap\dist\css\bootstrap-grid.css" />
     <Content Include="wwwroot\lib\node_modules\bootstrap\dist\css\bootstrap-grid.min.css" />
     <Content Include="wwwroot\lib\node_modules\bootstrap\dist\css\bootstrap-grid.rtl.css" />
@@ -35,7 +41,6 @@
     <Content Include="wwwroot\lib\node_modules\font-awesome\fonts\FontAwesome.otf" />
     <Content Include="wwwroot\lib\node_modules\font-awesome\HELP-US-OUT.txt" />
     <Content Include="wwwroot\lib\node_modules\font-awesome\package.json" />
-    <Content Include="wwwroot\lib\node_modules\fontawesome\package.json" />
     <Content Include="wwwroot\lib\node_modules\ssr-window\package.json" />
     <Content Include="wwwroot\lib\node_modules\swiper\modules\a11y\a11y-element.min.css" />
     <Content Include="wwwroot\lib\node_modules\swiper\modules\a11y\a11y.min.css" />
@@ -553,10 +558,6 @@
     <None Include="wwwroot\lib\node_modules\font-awesome\scss\_screen-reader.scss" />
     <None Include="wwwroot\lib\node_modules\font-awesome\scss\_stacked.scss" />
     <None Include="wwwroot\lib\node_modules\font-awesome\scss\_variables.scss" />
-    <None Include="wwwroot\lib\node_modules\fontawesome\generate.js" />
-    <None Include="wwwroot\lib\node_modules\fontawesome\index.js" />
-    <None Include="wwwroot\lib\node_modules\fontawesome\Makefile" />
-    <None Include="wwwroot\lib\node_modules\fontawesome\README.md" />
     <None Include="wwwroot\lib\node_modules\ssr-window\LICENSE" />
     <None Include="wwwroot\lib\node_modules\ssr-window\README.md" />
     <None Include="wwwroot\lib\node_modules\ssr-window\ssr-window.esm.js" />

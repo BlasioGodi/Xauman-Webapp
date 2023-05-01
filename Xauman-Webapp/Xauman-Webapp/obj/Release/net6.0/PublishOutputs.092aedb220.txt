@@ -1,0 +1,7 @@
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\Xauman-Webapp.exe
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\Xauman-Webapp.dll
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\Xauman-Webapp.deps.json
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\Xauman-Webapp.runtimeconfig.json
+D:\Git\Websites\Xauman-Webapp\Xauman-Webapp\Xauman-Webapp\obj\Release\net6.0\PubTmp\Out\Xauman-Webapp.pdb

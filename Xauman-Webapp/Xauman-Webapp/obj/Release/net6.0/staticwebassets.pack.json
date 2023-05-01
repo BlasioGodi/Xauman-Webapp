@@ -1,0 +1,2433 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\bootstrap_custom.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\revolution.js",
+      "PackagePath": "staticwebassets\\js\\revolution.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\@popperjs\\core\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\@popperjs\\core\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\font-awesome\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\ssr-window\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\ssr-window\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\a11y\\a11y-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\a11y\\a11y-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\a11y\\a11y.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\a11y\\a11y.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\autoplay\\autoplay-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\autoplay\\autoplay-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\autoplay\\autoplay.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\autoplay\\autoplay.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\controller\\controller-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\controller\\controller-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\controller\\controller.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\controller\\controller.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-cards\\effect-cards-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-cards\\effect-cards-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-cards\\effect-cards.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-cards\\effect-cards.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-coverflow\\effect-coverflow-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-coverflow\\effect-coverflow-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-creative\\effect-creative-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-creative\\effect-creative-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-creative\\effect-creative.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-creative\\effect-creative.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-cube\\effect-cube-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-cube\\effect-cube-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-cube\\effect-cube.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-cube\\effect-cube.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-fade\\effect-fade-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-fade\\effect-fade-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-fade\\effect-fade.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-fade\\effect-fade.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-flip\\effect-flip-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-flip\\effect-flip-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\effect-flip\\effect-flip.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\effect-flip\\effect-flip.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\free-mode\\free-mode-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\free-mode\\free-mode-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\free-mode\\free-mode.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\free-mode\\free-mode.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\grid\\grid-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\grid\\grid-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\grid\\grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\grid\\grid.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\hash-navigation\\hash-navigation-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\hash-navigation\\hash-navigation-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\hash-navigation\\hash-navigation.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\hash-navigation\\hash-navigation.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\history\\history-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\history\\history-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\history\\history.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\history\\history.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\keyboard\\keyboard-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\keyboard\\keyboard-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\keyboard\\keyboard.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\keyboard\\keyboard.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\manipulation\\manipulation-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\manipulation\\manipulation-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\manipulation\\manipulation.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\manipulation\\manipulation.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\mousewheel\\mousewheel-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\mousewheel\\mousewheel-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\mousewheel\\mousewheel.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\mousewheel\\mousewheel.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\navigation\\navigation-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\navigation\\navigation-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\navigation\\navigation.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\navigation\\navigation.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\pagination\\pagination-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\pagination\\pagination-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\pagination\\pagination.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\pagination\\pagination.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\parallax\\parallax-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\parallax\\parallax-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\parallax\\parallax.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\parallax\\parallax.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\scrollbar\\scrollbar-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\scrollbar\\scrollbar-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\scrollbar\\scrollbar.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\scrollbar\\scrollbar.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\thumbs\\thumbs-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\thumbs\\thumbs-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\thumbs\\thumbs.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\thumbs\\thumbs.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\virtual\\virtual-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\virtual\\virtual-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\virtual\\virtual.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\virtual\\virtual.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\zoom\\zoom-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\zoom\\zoom-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\modules\\zoom\\zoom.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\modules\\zoom\\zoom.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-bundle.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-element-bundle.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-element-bundle.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-element-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-element-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-element.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-element.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper-element.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\node_modules\\swiper\\swiper.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\swiper\\swiper.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\package.json",
+      "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\countdown\\revolution.addon.countdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\countdown\\revolution.addon.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\snow\\revolution.addon.snow.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\snow\\revolution.addon.snow.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\snow\\revolution.addon.snow.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\snow\\revolution.addon.snow.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\typewriter\\css\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\typewriter\\css\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\typewriter\\css\\typewriter.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\typewriter\\css\\typewriter.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\revolution.addon.typewriter.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\revolution.addon.typewriter.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\revolution.addon.typewriter.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\typewriter\\js\\revolution.addon.typewriter.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\NewTux.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\NewTux.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\abacus.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\abacus.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\address-book.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\address-book.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\address-book2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\address-book2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\aim.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\aim.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\alarm.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\alarm.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\apple.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\apple.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrow-left.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrow-right.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrows-updown.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\arrows-updown.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\atm-cash.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\atm-cash.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award1.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award1.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award4.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award4.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award5.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\award5.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\badge01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\badge01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\badge02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\badge02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bank.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bank.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bank2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bank2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bell.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bell.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\binoculars.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\binoculars.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bomb.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bomb.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bonsai.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bonsai.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\book-apple.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\book-apple.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\book.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\book.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bookmark.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\box.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\box.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\brain.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\brain.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\briefcase.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\briefcase.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\browser01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\browser01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\browser02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\browser02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\buildings.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\buildings.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\buy-sign.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\buy-sign.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator1.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator1.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calculator3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar1.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar1.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar4.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar4.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar5.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\calendar5.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\certificate.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\certificate.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\champagne.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\champagne.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character05.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character05.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character07.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character07.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character08.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\character08.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-analysis.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-analysis.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-board.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-board.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-pyramid.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart-pyramid.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart05.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart05.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart07.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart07.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart08.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart08.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart09.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart09.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart10.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart10.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart11.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart11.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart12.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart12.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart13.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart13.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart14.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart14.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart15.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart15.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart16.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart16.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart17.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart17.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart18.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart18.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart19.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart19.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart20.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart20.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart21.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chart21.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chat.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chat.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\checklist3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chemistry.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chemistry.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess-knight.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess-knight.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess-rook.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess-rook.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\chess.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\clock.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\clock.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\closed-sign.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\closed-sign.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-coins.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-coins.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-down.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\cloud-up.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\coffee.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\coffee.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\conference.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\conference.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\contact-book.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\contact-book.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\coupon.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\coupon.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\credit-card.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\credit-card.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\crown.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\crown.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\currencies.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\currencies.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\database.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\database.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\delivery.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\delivery.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\diagram-hierarchy.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\diagram-hierarchy.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\diamond.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\diamond.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\dollar.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\dollar.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\drawer.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\drawer.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\egg.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\egg.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\emblem.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\emblem.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\envelope-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\envelope-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\envelopes.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\envelopes.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\euro.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\euro.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\exchange.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\exchange.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\exit.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\exit.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\factory.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\factory.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fax.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fax.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file05.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file05.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file07.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file07.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file08.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file08.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file09.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file09.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file10.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\file10.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\files.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\files.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fire.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fire.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fish.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\fish.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\flag.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\flag.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-add.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-add.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-delete.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-delete.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-online.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-online.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-private.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-private.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-remove.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder-remove.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folder.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folders.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\folders.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\funnel-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\funnel-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\funnel.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\funnel.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gauge.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gauge.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gauge2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gauge2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gears1.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gears1.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gears2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\gears2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\glasses-moustache.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\glasses-moustache.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\globe2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\graduation-hat.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\graduation-hat.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-globe.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-globe.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-key.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-key.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-money2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hand-money2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\handshake.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\handshake.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hat-moustache.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hat-moustache.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hat.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hat.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-arrows.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-arrows.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-battery.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-battery.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-check.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-check.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-compass.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-compass.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-dollar.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-dollar.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-exclamation.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-exclamation.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-flash.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-flash.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-gauge.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-gauge.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-gears.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-gears.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-hourglass.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-hourglass.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-idea.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-idea.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-question.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-question.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-structure.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head-structure.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\head.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\headquarters.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\headquarters.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hourglass.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hourglass.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hours.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\hours.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\incoming.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\incoming.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ingots.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ingots.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\key.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\key.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\key2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\key2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\keyboard.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\keyboard.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\label.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\label.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lamp.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lamp.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-article.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-article.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-cart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-cart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-chart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-chart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-chart2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-chart2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-diagram.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-diagram.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-envelope.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-envelope.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-finance.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-finance.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-privacy.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-privacy.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-settings.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-settings.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-user.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop-user.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\laptop.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightbulb-green.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightbulb-green.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightbulb.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightbulb.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightning.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lightning.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\like.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\like.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lock.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\lock.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\magnet-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\magnet-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\magnifying-glass.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\magnifying-glass.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager-globe.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager-globe.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager-idea.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager-idea.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\manager02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\meditation.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\meditation.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\megaphone.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\megaphone.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money-growth.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money-growth.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money-scales.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money-scales.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money4.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money4.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money5.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money5.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money6.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\money6.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\monitor.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\monitor.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\mouse.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\mouse.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\nest-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\nest-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper-jobs.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper-jobs.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper-pen.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper-pen.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\newspaper.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\note-paper.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\note-paper.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\office-chair.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\office-chair.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\open-sign.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\open-sign.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\outgoing.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\outgoing.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\paper-clip.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\paper-clip.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\paper-plane.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\paper-plane.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pen.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pen.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pen2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pen2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pencil.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pencil.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pens-pencils.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pens-pencils.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-arrows06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-arrows06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-gears.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-gears.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-handshake.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-handshake.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-idea.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-idea.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-meeting.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-meeting.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-meeting02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-meeting02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-search01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-search01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-search02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-search02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure05.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure05.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure07.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\people-structure07.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\percent.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\percent.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\periscopemoney.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\periscopemoney.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows012.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows012.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows022.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows022.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-arrows03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-checkmark.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-checkmark.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-cross.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-cross.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-data.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-data.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-dollar.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-dollar.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-finance.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-finance.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-flag.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-flag.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-globe.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-globe.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-idea02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-idea02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-info.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-info.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-puzzle.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-puzzle.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-scales.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-scales.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-time.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-time.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-umbrella.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\person-umbrella.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\phone.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\phone.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pie-chart01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pie-chart01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pie-chart02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pie-chart02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\piggy-bank.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\piggy-bank.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pin.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pin.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\plant-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\plant-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\plant.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\plant.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pound.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pound.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\presentation.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\presentation.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\presentation02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\presentation02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-chart04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-laurels.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-laurels.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-megaphone.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-megaphone.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-stairs.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\preson-stairs.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\printer.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\printer.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\profile.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\profile.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pulse.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\pulse.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\puzzle.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\puzzle.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\quill.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\quill.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\recycle.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\recycle.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\rocket.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\rocket.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\rocket2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\rocket2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ruble.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ruble.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ruler-compasses.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\ruler-compasses.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\safe.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\safe.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\sale-sign.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\sale-sign.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\satellite-dish.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\satellite-dish.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\scales.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\scales.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\scissors.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\scissors.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\security.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\security.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\send.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\send.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\shield.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\shield.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\sign.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\sign.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-chart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-chart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-exclamation.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-exclamation.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-gears.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-gears.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-growth.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-growth.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-money.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-money.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-user.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone-user.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\smartphone.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speaker.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speaker.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speaker02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speaker02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speech-bubble.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\speech-bubble.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\stamp.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\stamp.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\star.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\star.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\steering-wheel.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\steering-wheel.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy1.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy1.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\strategy2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\support-person.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\support-person.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-article.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-article.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart3.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-chart3.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-pie-chart.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-pie-chart.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-pie-chart2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet-pie-chart2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tablet.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\target.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\target.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\team.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\team.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\telescope.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\telescope.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tie.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tie.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tools.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tools.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tools2.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\tools2.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\trash-bin.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\trash-bin.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\umbrella.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\umbrella.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user01.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user01.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user02.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user02.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user03.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user03.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user04.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user04.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user05.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user05.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user06.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user06.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user07.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user07.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user08.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user08.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user09.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\user09.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\users.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\users.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\venn-diagram.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\venn-diagram.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\wallet.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\wallet.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\wrench.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\wrench.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\yen.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\yen.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\yinyang.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\busy-icons-svg\\yinyang.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\css\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\css\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\css\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\css\\license.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\hand_point_right.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\hand_point_right.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\write_right_angle.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\images\\write_right_angle.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\assets\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\revolution.addon.whiteboard.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\revolution.addon.whiteboard.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\source\\revolution.addon.whiteboard.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution-addons\\whiteboard\\js\\source\\revolution.addon.whiteboard.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\fb.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\fb.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\fr.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\fr.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\ig.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\ig.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\post.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\post.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\revolution_slide1.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\revolution_slide1.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\revolution_slide2.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\revolution_slide2.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\tw.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\tw.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\vm.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\vm.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\wc.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\wc.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\sources\\yt.png",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\sources\\yt.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\svg\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\svg\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\assets\\svg\\svg.zip",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\assets\\svg\\svg.zip"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\ares.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\ares.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\custom.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\custom.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\dione.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\dione.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\erinyen.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\erinyen.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\gyges.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\gyges.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hades.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hades.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hebe.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hebe.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hephaistos.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hephaistos.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hermes.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hermes.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hesperiden.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\hesperiden.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\metis.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\metis.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\persephone.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\persephone.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\uranus.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\uranus.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation-skins\\zeus.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation-skins\\zeus.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\settings-ver.5.3.1.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\settings-ver.5.3.1.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\font-awesome\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\pe-icon-7-stroke\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\revicons\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\revicons\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\info.cfg",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\info.cfg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.actions.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.actions.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.migration.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.migration.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.video.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\extensions\\source\\revolution.extension.video.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\source\\index.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\source\\index.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\js\\source\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\facebook\\class-facebook.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\facebook\\class-facebook.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\flickr\\class-flickr.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\flickr\\class-flickr.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\instagram\\class-instagram.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\instagram\\class-instagram.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\twitter\\RestApi.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\twitter\\RestApi.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\twitter\\class-twitter.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\twitter\\class-twitter.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\Application.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\Application.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\User.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\twitter\\connection\\User.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\vimeo\\class-vimeo.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\vimeo\\class-vimeo.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\rev-slider\\revolution\\php\\youtube\\class-youtube.php",
+      "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\youtube\\class-youtube.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\lib\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\custom.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Chart-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\Chart-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Comp-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\Comp-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Forex-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Forex-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Gold-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-04.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Gold-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Gold-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Gold-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-03.webp",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-03.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-04.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-06.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-06.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-06.webp",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-06.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-SE.webp",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-SE.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo-XR.webp",
+      "PackagePath": "staticwebassets\\src\\img\\Logo-XR.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Logo.webp",
+      "PackagePath": "staticwebassets\\src\\img\\Logo.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Senti-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\Senti-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\Trading-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Trading-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\image2.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\image2.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\src\\img\\preloader.gif"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slide.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slide.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-04.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\FX-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\FX-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Forex-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Forex-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-03.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\img\\slider\\Gold-05.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Gold-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-114x114.png",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-114x114.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-114x114.webp",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-114x114.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-32x32.png",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-32x32.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-32x32.webp",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-32x32.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-64x64.png",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-64x64.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-64x64.webp",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-64x64.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-72x72.png",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-72x72.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Xauman-Webapp\\Xauman-Webapp\\Xauman-Webapp\\wwwroot\\src\\logos\\XAU-72x72.webp",
+      "PackagePath": "staticwebassets\\src\\logos\\XAU-72x72.webp"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Xauman-Webapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Xauman-Webapp.props",
+      "PackagePath": "build\\Xauman-Webapp.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Xauman-Webapp.props",
+      "PackagePath": "buildMultiTargeting\\Xauman-Webapp.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Xauman-Webapp.props",
+      "PackagePath": "buildTransitive\\Xauman-Webapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
